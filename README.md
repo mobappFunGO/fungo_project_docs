@@ -21,3 +21,4 @@ Here you can find all available links to all project documentation:
 6. **Team Gantt of the project**: https://prod.teamgantt.com/gantt/schedule/?ids=2028932&public_keys=lJr6Y7Ly8CcR&zoom=d100&font_size=12&estimated_hours=0&assigned_resources=0&percent_complete=0&documents=0&comments=0&col_width=355&hide_header_tabs=0&menu_view=1&resource_filter=1&name_in_bar=0&name_next_to_bar=0&resource_names=1&resource_hours=1#user=&company=&custom=&date_filter=&hide_completed=false&color_filter=
 7. **Jira**: https://natatest.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=FUNGO&selectedIssue=FUNGO-14&atlOrigin=eyJpIjoiYjU5ZDNlMmZlOTk2NGJmMmEyZDJkNmUzYWExYzAzYzQiLCJwIjoiaiJ9
 7. **FunGO app roadmap**: https://infograph.venngage.com/ps/QCbnA3PTieo/light-vertical-product-launch-roadmap_new
+8. **FunGO app slack**: https://fungo-workspace.slack.com/
